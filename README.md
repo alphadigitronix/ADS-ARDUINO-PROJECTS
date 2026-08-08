@@ -10,16 +10,11 @@ These projects cover sensors, automation, safety systems, touch control, and bas
 
 | No. | Project | Description | Repository |
 |---:|---|---|---|
-| 1 | 💧 Smart Water Tank Level Indicator | Monitors water level using an ultrasonic sensor and displays the level on an LCD. 
-| [View Project]((https://github.com/alphadigitronix/WATER_LEVEL)) |
-| 2 | 💡 Automatic Street Light | Automatically controls a light based on ambient brightness using an LDR sensor. 
-| [View Project](https://github.com/alphadigitronix/Automatic_Street_Light) |
-| 3 | 🔥 Flame Detection & Fire Alert | Detects flame and activates a buzzer while displaying the fire status. 
-| [View Project](https://github.com/alphadigitronix/FIRE_DETECT) |
-| 4 | 🌧️ Rain Detection & Alert | Detects rainfall and provides LED and buzzer alerts. 
-| [View Project](https://github.com/alphadigitronix/RAIN_DETECT) |
-| 5 | 👆 Touch Sensor 5-Level LED Controller | Controls five LEDs sequentially using a single touch sensor. 
-| [View Project](https://github.com/alphadigitronix/TOUCH_LED) |
+| 1 | 💧 Smart Water Tank Level Indicator | Monitors water level using an ultrasonic sensor and displays the level on an LCD. | [View Project]((https://github.com/alphadigitronix/WATER_LEVEL)) |
+| 2 | 💡 Automatic Street Light | Automatically controls a light based on ambient brightness using an LDR sensor. | [View Project](https://github.com/alphadigitronix/Automatic_Street_Light) |
+| 3 | 🔥 Flame Detection & Fire Alert | Detects flame and activates a buzzer while displaying the fire status. | [View Project](https://github.com/alphadigitronix/FIRE_DETECT) |
+| 4 | 🌧️ Rain Detection & Alert | Detects rainfall and provides LED and buzzer alerts. | [View Project](https://github.com/alphadigitronix/RAIN_DETECT) |
+| 5 | 👆 Touch Sensor 5-Level LED Controller | Controls five LEDs sequentially using a single touch sensor. | [View Project](https://github.com/alphadigitronix/TOUCH_LED) |
 
 ---
 
