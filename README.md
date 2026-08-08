@@ -10,7 +10,7 @@ These projects cover sensors, automation, safety systems, touch control, and bas
 
 | No. | Project | Description | Repository |
 |---:|---|---|---|
-| 1 | 💧 Smart Water Tank Level Indicator | Monitors water level using an ultrasonic sensor and displays the level on an LCD. | [View Project]((https://github.com/alphadigitronix/WATER_LEVEL)) |
+| 1 | 💧 Smart Water Tank Level Indicator | Monitors water level using an ultrasonic sensor and displays the level on an LCD. | [View Project](https://github.com/alphadigitronix/WATER_LEVEL) |
 | 2 | 💡 Automatic Street Light | Automatically controls a light based on ambient brightness using an LDR sensor. | [View Project](https://github.com/alphadigitronix/Automatic_Street_Light) |
 | 3 | 🔥 Flame Detection & Fire Alert | Detects flame and activates a buzzer while displaying the fire status. | [View Project](https://github.com/alphadigitronix/FIRE_DETECT) |
 | 4 | 🌧️ Rain Detection & Alert | Detects rainfall and provides LED and buzzer alerts. | [View Project](https://github.com/alphadigitronix/RAIN_DETECT) |
@@ -68,16 +68,30 @@ More Arduino and embedded-system projects will be added regularly.
 
 ### Upcoming Projects
 
-- [ ] Temperature & Humidity Monitor
-- [ ] Smart Parking System
-- [ ] Automatic Plant Irrigation
-- [ ] Gas Leakage Detection
-- [ ] RFID Door Lock
-- [ ] Smart Home Automation
-- [ ] IoT-based Monitoring System
+- [ ] 🌡️ Temperature & Humidity Monitor
+- [ ] 🅿️ Smart Parking System
+- [ ] 🌱 Automatic Plant Irrigation
+- [ ] 🛢️ Gas Leakage Detection
+- [ ] 🔐 RFID Door Lock
+- [ ] 🏠 Smart Home Automation
+- [ ] 📡 IoT-based Monitoring System
+
+---
+
+## 📊 Project Summary
+
+| Project | Main Component | Output |
+|---|---|---|
+| 💧 Water Level | HC-SR04 | LCD |
+| 💡 Street Light | LDR Module | LED |
+| 🔥 Fire Alert | Flame Sensor | LCD + Buzzer |
+| 🌧️ Rain Detection | Rain Sensor | LED + Buzzer |
+| 👆 Touch Controller | TTP223 | 5 LEDs |
 
 ---
 
 ## 📜 License
 
 The individual projects are released under the MIT License.
+
+See the `LICENSE` file in each project repository for details.
