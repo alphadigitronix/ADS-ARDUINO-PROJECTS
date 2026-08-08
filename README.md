@@ -2,7 +2,13 @@
 
 A collection of Arduino-based electronics projects developed and simulated using Tinkercad.
 
-These projects cover sensors, automation, safety systems, touch control, and basic embedded-system concepts.
+These projects cover sensor interfacing, automation, safety systems, actuator control, touch control, and basic embedded-system concepts.
+
+---
+
+## 👨‍💻 About
+
+This repository contains my hands-on Arduino and embedded-systems projects, focusing on sensor interfacing, automation, safety systems, actuator control, and practical electronics applications.
 
 ---
 
@@ -15,6 +21,7 @@ These projects cover sensors, automation, safety systems, touch control, and bas
 | 3 | 🔥 Flame Detection & Fire Alert | Detects flame and activates a buzzer while displaying the fire status. | [View Project](https://github.com/alphadigitronix/FIRE_DETECT) |
 | 4 | 🌧️ Rain Detection & Alert | Detects rainfall and provides LED and buzzer alerts. | [View Project](https://github.com/alphadigitronix/RAIN_DETECT) |
 | 5 | 👆 Touch Sensor 5-Level LED Controller | Controls five LEDs sequentially using a single touch sensor. | [View Project](https://github.com/alphadigitronix/TOUCH_LED) |
+| 6 | 🚧 Automatic Gate Using IR Sensor & Servo | Detects an object using an IR sensor and automatically opens and closes a servo-controlled gate. | [View Project](https://github.com/alphadigitronix/IR_SERVO) |
 
 ---
 
@@ -24,6 +31,7 @@ These projects cover sensors, automation, safety systems, touch control, and bas
 - Arduino IDE
 - Tinkercad Circuits
 - Sensors
+- Servo Motor
 - LEDs
 - Buzzers
 - LCD
@@ -35,7 +43,8 @@ These projects cover sensors, automation, safety systems, touch control, and bas
 
 These projects demonstrate:
 
-- Digital and analog sensor interfacing
+- Digital sensor interfacing
+- Analog sensor interfacing
 - Digital input/output
 - LCD interfacing
 - Ultrasonic distance measurement
@@ -43,6 +52,8 @@ These projects demonstrate:
 - Flame detection
 - Rain detection
 - LDR-based automation
+- IR sensor interfacing
+- Servo motor control
 - LED and buzzer control
 - Basic embedded-system programming
 
@@ -50,7 +61,7 @@ These projects demonstrate:
 
 ## 🧪 Simulation
 
-All projects are tested/simulated using Tinkercad where applicable.
+The projects are developed and simulated using Tinkercad where applicable.
 
 Each individual project repository contains its own:
 
@@ -59,6 +70,19 @@ Each individual project repository contains its own:
 - 📖 Project documentation
 - 🔗 Tinkercad simulation link
 - 📜 MIT License
+
+---
+
+## 📊 Project Summary
+
+| Project | Main Component | Output |
+|---|---|---|
+| 💧 Water Level | HC-SR04 | LCD |
+| 💡 Street Light | LDR Module | LED |
+| 🔥 Fire Alert | Flame Sensor | LCD + Buzzer |
+| 🌧️ Rain Detection | Rain Sensor | LED + Buzzer |
+| 👆 Touch Controller | TTP223 | 5 LEDs |
+| 🚧 Automatic Gate | IR Sensor + Servo | Servo Gate |
 
 ---
 
@@ -74,24 +98,33 @@ More Arduino and embedded-system projects will be added regularly.
 - [ ] 🛢️ Gas Leakage Detection
 - [ ] 🔐 RFID Door Lock
 - [ ] 🏠 Smart Home Automation
-- [ ] 📡 IoT-based Monitoring System
+- [ ] 📡 IoT-Based Monitoring System
 
 ---
 
-## 📊 Project Summary
+## 🌟 Highlights
 
-| Project | Main Component | Output |
-|---|---|---|
-| 💧 Water Level | HC-SR04 | LCD |
-| 💡 Street Light | LDR Module | LED |
-| 🔥 Fire Alert | Flame Sensor | LCD + Buzzer |
-| 🌧️ Rain Detection | Rain Sensor | LED + Buzzer |
-| 👆 Touch Controller | TTP223 | 5 LEDs |
+- 🔧 Hands-on Arduino projects
+- 🧪 Tinkercad-based simulation
+- 🔌 Practical sensor interfacing
+- ⚙️ Actuator control
+- 📖 Complete project documentation
+- 💻 Arduino source code
+- 🔗 Individual GitHub repositories
+- 📜 MIT licensed projects
 
 ---
 
-## 📜 License
+## 📂 Repository Structure
 
-The individual projects are released under the MIT License.
+Each project is maintained in a separate GitHub repository.
 
-See the `LICENSE` file in each project repository for details.
+```text
+Arduino Projects Portfolio
+│
+├── 💧 WATER_LEVEL
+├── 💡 Automatic_Street_Light
+├── 🔥 FIRE_DETECT
+├── 🌧️ RAIN_DETECT
+├── 👆 TOUCH_LED
+└── 🚧 IR_SERVO
