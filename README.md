@@ -22,7 +22,11 @@ This repository contains my hands-on Arduino and embedded-systems projects, focu
 | 4 | 🌧️ Rain Detection & Alert | Detects rainfall and provides LED and buzzer alerts. | [View Project](https://github.com/alphadigitronix/RAIN_DETECT) |
 | 5 | 👆 Touch Sensor 5-Level LED Controller | Controls five LEDs sequentially using a single touch sensor. | [View Project](https://github.com/alphadigitronix/TOUCH_LED) |
 | 6 | 🚧 Automatic Gate Using IR Sensor & Servo | Detects an object using an IR sensor and automatically opens and closes a servo-controlled gate. | [View Project](https://github.com/alphadigitronix/IR_SERVO) |
-
+| 7 | 💡 LDR Light Detection System | Detects ambient light intensity using an LDR sensor module and displays the light condition through the Serial Monitor. | [View Project](https://github.com/alphadigitronix/LDR_PROJECT) |
+| 8 | 🚧 IR Obstacle Detection System | Detects nearby obstacles using an IR sensor and displays the detection status through the Serial Monitor. | [View Project](https://github.com/alphadigitronix/IR_OBSTACLE_DETECTION) |
+| 9 | 🌡️ Temperature Display Using DHT11 | Measures temperature and humidity using a DHT11 sensor and displays the readings through the Serial Monitor. | [View Project](https://github.com/alphadigitronix/TEMPERATURE_DISPLAY_USING_DHT11) |
+| 10 | 🔘 Push Button LED Control | Controls an LED using a push button and Arduino UNO, demonstrating basic digital input and output control. | [View Project](https://github.com/alphadigitronix/PUSH-BUTTON_LED) |
+| 11 | 🚦 3 LED Traffic Light | Simulates a traffic signal using Red, Yellow, and Green LEDs controlled sequentially by Arduino UNO. | [View Project](https://github.com/alphadigitronix/TRAFFIC_LIGHT) |
 ---
 
 ## 🛠️ Technologies & Tools
