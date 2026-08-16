@@ -81,12 +81,17 @@ Each individual project repository contains its own:
 
 | Project | Main Component | Output |
 |---|---|---|
-| 💧 Water Level | HC-SR04 | LCD |
+| 💧 Water Level | HC-SR04 Ultrasonic Sensor | LCD |
 | 💡 Street Light | LDR Module | LED |
 | 🔥 Fire Alert | Flame Sensor | LCD + Buzzer |
 | 🌧️ Rain Detection | Rain Sensor | LED + Buzzer |
-| 👆 Touch Controller | TTP223 | 5 LEDs |
-| 🚧 Automatic Gate | IR Sensor + Servo | Servo Gate |
+| 👆 Touch Controller | TTP223 Touch Sensor | 5 LEDs |
+| 🚧 Automatic Gate | IR Sensor + SG90 Servo | Servo Gate |
+| 💡 LDR Light Detection | LDR Module | Serial Monitor |
+| 🚧 IR Obstacle Detection | IR Sensor Module | Serial Monitor |
+| 🌡️ Temperature Display | DHT11 Sensor | Serial Monitor |
+| 🔘 Push Button LED | Push Button | LED |
+| 🚦 Traffic Light | Arduino UNO | Red + Yellow + Green LEDs |
 
 ---
 
@@ -131,4 +136,9 @@ Arduino Projects Portfolio
 ├── 🔥 FIRE_DETECT
 ├── 🌧️ RAIN_DETECT
 ├── 👆 TOUCH_LED
-└── 🚧 IR_SERVO
+├── 🚧 IR_SERVO
+├── 💡 LDR_PROJECT
+├── 🚧 IR_OBSTACLE_DETECTION
+├── 🌡️ TEMPERATURE_DISPLAY_USING_DHT11
+├── 🔘 PUSH-BUTTON_LED
+└── 🚦 TRAFFIC_LIGHT
