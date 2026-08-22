@@ -29,6 +29,7 @@ This repository contains my hands-on Arduino and embedded-systems projects, focu
 | 11 | 🚦 3 LED Traffic Light | Simulates a traffic signal using Red, Yellow, and Green LEDs controlled sequentially by Arduino UNO. | [View Project](https://github.com/alphadigitronix/TRAFFIC_LIGHT) |
 | 12 | 💧 Smart Temperature Display |measure temperature and humidity using a DHT11 Temperature and Humidity Sensor with an Arduino UNO.. | [View Project](https://github.com/alphadigitronix/TEMPERATURE_DISPLAY_USING_DHT11) |
 | 13 | 🚨 Smart-Security-Intruder-Alert-System |A beginner-friendly Arduino project that demonstrates how to build a basic security system using an IR Sensor, Ultrasonic Sensor, Servo Motor, I2C LCD, Buzzer, LEDs, and Push Button. | [View Project](https://github.com/alphadigitronix/Smart-Security-Intruder-Alert-System) |
+| 14 | 🌦️ Smart Weather & Environment Monitoring System |A beginner-friendly Arduino project that monitors temperature, humidity, rain, and light conditions using the DHT11, Rain Sensor, and LDR Sensor. | [View Project](https://github.com/alphadigitronix/Smart-Weather-Environment-Monitoring-System) |
 ---
 
 ## 🛠️ Technologies & Tools
