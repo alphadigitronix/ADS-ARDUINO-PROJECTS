@@ -16,7 +16,7 @@ This repository contains my hands-on Arduino and embedded-systems projects, focu
 
 | No. | Project | Description | Repository |
 |---:|---|---|---|
-| 1 | BLINK CODE | START YOUR 1ST BLINK CODE.The LED Blinker is a beginner-friendly Arduino project that demonstrates how to control a digital output using the Arduino UNO. | [View Project](https://github.com/alphadigitronix/BLINK_CODE) |
+| 1 | 💡BLINK CODE | START YOUR 1ST BLINK CODE.The LED Blinker is a beginner-friendly Arduino project that demonstrates how to control a digital output using the Arduino UNO. | [View Project](https://github.com/alphadigitronix/BLINK_CODE) |
 | 2 | 💧 Smart Water Tank Level Indicator | Monitors water level using an ultrasonic sensor and displays the level on an LCD. | [View Project](https://github.com/alphadigitronix/WATER_LEVEL) |
 | 3 | 💡 Automatic Street Light | Automatically controls a light based on ambient brightness using an LDR sensor. | [View Project](https://github.com/alphadigitronix/Automatic_Street_Light) |
 | 4 | 🔥 Flame Detection & Fire Alert | Detects flame and activates a buzzer while displaying the fire status. | [View Project](https://github.com/alphadigitronix/FIRE_DETECT) |
