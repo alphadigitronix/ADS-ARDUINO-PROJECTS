@@ -27,7 +27,7 @@ This repository contains my hands-on Arduino and embedded-systems projects, focu
 | 9 | 🌡️ Temperature Display Using DHT11 | Measures temperature and humidity using a DHT11 sensor and displays the readings through the Serial Monitor. | [View Project](https://github.com/alphadigitronix/TEMPERATURE_DISPLAY_USING_DHT11) |
 | 10 | 🔘 Push Button LED Control | Controls an LED using a push button and Arduino UNO, demonstrating basic digital input and output control. | [View Project](https://github.com/alphadigitronix/PUSH-BUTTON_LED) |
 | 11 | 🚦 3 LED Traffic Light | Simulates a traffic signal using Red, Yellow, and Green LEDs controlled sequentially by Arduino UNO. | [View Project](https://github.com/alphadigitronix/TRAFFIC_LIGHT) |
-| 12 | 💧 Smart Temperature Display |measure temperature and humidity using a DHT11 Temperature and Humidity Sensor with an Arduino UNO.. | [View Project](https://github.com/alphadigitronix/TEMPERATURE_DISPLAY_USING_DHT11L) |
+| 12 | 💧 Smart Temperature Display |measure temperature and humidity using a DHT11 Temperature and Humidity Sensor with an Arduino UNO.. | [View Project](https://github.com/alphadigitronix/TEMPERATURE_DISPLAY_USING_DHT11) |
 ---
 
 ## 🛠️ Technologies & Tools
